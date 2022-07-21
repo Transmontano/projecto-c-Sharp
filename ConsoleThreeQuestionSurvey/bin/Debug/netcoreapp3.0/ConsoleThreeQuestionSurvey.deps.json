@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleThreeQuestionSurvey/1.0.0": {
+        "runtime": {
+          "ConsoleThreeQuestionSurvey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleThreeQuestionSurvey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

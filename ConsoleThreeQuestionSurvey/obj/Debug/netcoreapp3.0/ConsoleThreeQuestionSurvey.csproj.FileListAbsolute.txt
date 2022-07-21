@@ -1,0 +1,11 @@
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.exe
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.deps.json
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.runtimeconfig.json
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.runtimeconfig.dev.json
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.dll
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\bin\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.pdb
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\obj\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.csprojAssemblyReference.cache
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\obj\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.AssemblyInfoInputs.cache
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\obj\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.AssemblyInfo.cs
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\obj\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.dll
+C:\Users\Zé\source\repos\ConsoleThreeQuestionSurvey\obj\Debug\netcoreapp3.0\ConsoleThreeQuestionSurvey.pdb
